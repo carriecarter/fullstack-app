@@ -1,7 +1,7 @@
 # PCT Water Report V1
 An initial attempt at building an app to manage and participate in the Pacific Crest Trail Water Report. 
 
-_built as an Alchemy Code Lab Career Track project with MongoDB, Express, React, Redux  
+_built as an Alchemy Code Lab Career Track project with MongoDB, Express, React, Redux_  
 
 ## Current State of The PCT Water Report: 
 
